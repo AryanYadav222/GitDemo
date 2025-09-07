@@ -1,0 +1,4 @@
+septae branch: day1 Branch
+
+crate a new branch
+git checkout -b "branchName"
